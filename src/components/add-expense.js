@@ -12,7 +12,7 @@ export class AddExpensePage extends React.Component {
         return (
             <div>
                 <div className="page-header">
-                    <div className="content-container">
+                    <div className="wcontent-container">
                         <h1 className="page-header__title">Add Expense</h1>
                     </div>
                 </div>
